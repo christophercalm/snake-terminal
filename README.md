@@ -1,7 +1,6 @@
 # snake-terminal
 Snake implemented in the terminal to demonstrate stdin and terminal flag manipulation
 
-
-![Alt text](screenshot.png raw=true "Title")
+![image info](./screenshot.png)
 
 Control with WASD
